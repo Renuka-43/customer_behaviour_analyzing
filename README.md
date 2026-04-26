@@ -9,13 +9,13 @@ The goal of this project is to transform raw data into actionable insights using
 
 📂 Dataset
 
-Source: [Add dataset source here – e.g., Kaggle, internal database, etc.]
+Source: customer_shopping_behaviour.csv
 
 Format: CSV / Excel / Database
 
-Size: [e.g., 50,000 rows × 12 columns]
+Size: [39,00 rows × 18 columns]
 
-Domain: [e.g., Sales, Finance, Marketing, Healthcare]
+Domain:Retail / E-Commerce domain.
 
 The dataset contains structured data used to analyze trends, performance metrics, and key business indicators.
 
